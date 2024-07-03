@@ -1,3 +1,2 @@
-how to start server{
 npm i
-nodemon index.js}
+nodemon index.js
